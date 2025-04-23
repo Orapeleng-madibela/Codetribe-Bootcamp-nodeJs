@@ -16,7 +16,7 @@ let series = [
 // 🎵 Custom Songs
 let songs = [
   { id: 1, title: "Everyday", artist: "Emtee" },
-  { id: 2, title: "Bonang Sepanong", artist: "IPCC" }
+  { id: 2, title: "Bonang Sefapanong", artist: "IPCC" }
 ];
 
 // Helper to parse body
